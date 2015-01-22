@@ -1,0 +1,15 @@
+enableSlotChange: true
+plusChange:
+  enable: true
+  numUntilChange: 20
+  numToAdd: 1
+normalNumChange:
+  enable: false
+  numSlots: 50
+enableInfiniteSlots: true
+enableMotdChange: true
+customMotds:
+  - 'Custom motd 1'
+  - 'Custom motd 2'
+  - 'Add your own if you want!'
+  - 'You can make as many as you want!'

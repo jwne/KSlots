@@ -1,0 +1,11 @@
+name: KSlots
+main: me.kamilkime.kslots.KSlots
+version: 1.0
+
+commands:
+  kslots:
+    description: KSlots plugin command
+
+permissions:
+  kslots.cmd:
+    default: op
